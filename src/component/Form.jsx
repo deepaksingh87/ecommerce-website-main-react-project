@@ -8,7 +8,7 @@ function Form() {
     <div>
       <div className="container">
         <div className="inner-container">
-          <h1>get started with online form</h1>
+          <h1>get started with online form and deepak</h1>
           <form onSubmit={(e) => { e.preventDefault(); alert("form submitted") }}>
             <label>Enter Name:</label><input type="text" placeholder="enter name" className="input1" required /><br /><br />
             <label>Enter Email:</label><input type="email" placeholder="enter email" className="input2" required /><br /><br />
