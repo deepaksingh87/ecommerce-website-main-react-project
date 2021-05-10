@@ -1,0 +1,60 @@
+.login-form{
+    width: 600px;
+    height: 500px;
+    background-color: #3A173D;
+    position: relative;
+    top: 200px;
+    left: 500px;
+}
+
+
+body{
+    color: white;
+    background-color: #2874F0;
+}
+.inner-form-login{
+    position: absolute;
+    top: 40px;
+}
+.inner-button{
+    position: absolute;
+    top: 190px;
+    width: 80%;
+    height: 40px;
+    left: -210px;
+    background-color: #FB641B;
+    color: white;
+    font-size: 30px;
+}
+.inner-button1{
+    position: absolute;
+    top: 250px;
+    width: 80%;
+    height: 40px;
+    left: -210px;
+    background-color: #FB641B;
+    color: white;
+    font-size: 30px;
+}
+
+.inner1-button{
+    position: absolute;
+    top: 290px;
+    width: 80%;
+    height: 40px;
+    left: -210px;
+    background-color: #FB641B;
+    color: white;
+    font-size: 30px;
+}
+
+.inner2-button1{
+    position: absolute;
+    top: 230px;
+    width: 80%;
+    height: 40px;
+    left: -210px;
+    background-color: #FB641B;
+    color: white;
+    font-size: 30px;
+}

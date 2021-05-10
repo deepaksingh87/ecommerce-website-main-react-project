@@ -1,0 +1,39 @@
+.header{
+    height: 70px;
+    width: 100%;
+    background-color: #3A173D;
+    color: white;
+    top: 0px;
+    position: fixed;
+}
+.search-item{
+    margin-left: 300px;
+}
+.search-item input{
+    width: 350px;
+    height:34px;
+    margin-top: 10px;
+    background-color: #3A173D;
+    border: 2px solid white;
+    color: white;
+}
+.login-list{
+    margin-left: 700px;
+    font-size: 30px;
+    background-color: #3A173D;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.login-list1{
+    margin-left: 20px;
+    font-size: 30px;
+    background-color: #3A173D;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+

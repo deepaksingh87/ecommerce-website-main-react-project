@@ -1,0 +1,23 @@
+.billgates-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.billgates-image::after{
+line-height: 2px;
+width: 100%;    
+}
+.hmenu{
+    border-bottom: 1px solid white;
+}
+ul{
+    list-style-type: none;
+}
+.inner-list{
+    display: flex;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
